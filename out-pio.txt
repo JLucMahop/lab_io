@@ -1,0 +1,22 @@
+c[?7l[2J[0mSeaBIOS (version 1.16.3-debian-1.16.3-2)
+
+
+iPXE (https://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+3EFCAD00+3EF0AD00 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM...
+c[?7l[2J
+--- I/O lab ---
+partitions   : major minor  #blocks  name
+device        : /dev/sda
+written       : 64 MiB in blocks of 1024 KiB
+wall time     : 55.907 s
+throughput    : 1.1 MiB/s
+cpu time      : 0.010 s
+cpu per MiB   : 0.2 ms
+cpu busy      : 0 % of the wall time
+not running   : 55.897 s (100 % of the wall time)
+
+--- done. Powering off. ---
+[   57.292587] reboot: Power down

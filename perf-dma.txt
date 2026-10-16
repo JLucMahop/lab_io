@@ -1,0 +1,10 @@
+# started on Fri Oct 16 05:56:15 2026
+
+
+ Performance counter stats for 'system wide':
+
+            36 463      kvm:kvm_exit                                                          
+            17 270      kvm:kvm_pio                                                           
+
+       2,065342840 seconds time elapsed
+
